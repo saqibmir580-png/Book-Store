@@ -1,0 +1,13 @@
+
+{
+  "scripts": {
+    "test": "echo \"Error:no test specified\"&& exit 1",
+    "start": "concurrently \"npm run frontend\" \"npm run backend\"",
+   "backend":"cd backend && nodemon index.js",
+    "frontend":"cd frontend && npm run dev"
+   
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
