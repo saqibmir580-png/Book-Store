@@ -73,4 +73,4 @@ cd client
 npm start
 6.Open the app in your browser:
 
-Visit http://localhost:3000 to access the application.
+Visit http://book-store-api-livid.vercel.app to access the application.
