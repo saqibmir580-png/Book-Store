@@ -49,7 +49,7 @@ Installation
 To run this app locally, follow these steps:
 
 1 .Clone the repository:
-git clone https://github.com/saqibmir580-png/book-store-app.git
+git clone https://github.com/https://github.com/saqibmir580-png/Book-Store
 cd book-store-app
 2.Install dependencies:
 
